@@ -1,0 +1,41 @@
+body
+{
+    margin: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.head
+{
+	background: white;
+    border: solid 4px #009643;
+	border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Calibri";
+    font-size: 20pt;
+    text-align: left;
+    color: black;
+}
+.containes
+{
+	background: white;
+    padding: 15px;
+    border: solid 4px #009643;
+	border-radius: 0px 0px 10px 10px;
+    font-family: "Calibri";
+    font-size: 14pt;
+}
+summary
+{    
+    padding: 12px;
+    margin-bottom: 5px;
+    background-color: gray;
+    color: #00d0ff;
+}
+a {
+    color: #00d0ff; 
+    text-decoration: none;
+}
